@@ -1,6 +1,4 @@
-Sarah Volynsky 👋
-
-Product Strategist & Creative Operator
+Hi, I'm Sarah 👋
 
 
 🪞 About
