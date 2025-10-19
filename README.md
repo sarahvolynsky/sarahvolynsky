@@ -40,15 +40,15 @@ B.S. Real Estate, Minor in Business Administration
 University of Washington — 2023–2025
 
 🪄 Certifications
-Stanford Online – Advanced Product Management Program
-Designlab – AI Camp: Prototype & Ship
-Microsoft – Enterprise Product Management Fundamentals, Copilot AI Companion
-Google – Generative AI Leader, UX Design Foundations, AI Essentials
-University of London – Brand Management: Aligning Business, Brand and Behavior
-Adobe – Adobe Content Creator
-UW Foster School of Business – Excel Credential
-Washington State DOL – Real Estate Broker License
-Cisco - Introduction to Cybersecurity
+- Stanford Online – Advanced Product Management Program
+- Designlab – AI Camp: Prototype & Ship
+- Microsoft – Enterprise Product Management Fundamentals, Copilot AI Companion
+- Google – Generative AI Leader, UX Design Foundations, AI Essentials
+- University of London – Brand Management: Aligning Business, Brand and Behavior
+- Adobe – Adobe Content Creator
+- UW Foster School of Business – Excel Credential
+- Washington State DOL – Real Estate Broker License
+- Cisco - Introduction to Cybersecurity
 
 🌎 [Personal Website](https://sarahvolynsky.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/sarah-v-8a174b8b/)
