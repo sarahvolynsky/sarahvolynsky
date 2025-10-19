@@ -1,13 +1,13 @@
 Sarah Volynsky 👋
 
 Product Strategist & Creative Operator
-Let’s build something people remember.
+
 
 🪞 About
 
 I’m a product strategist and creative operator passionate about designing AI systems that make business workflows seamless and human-centered.
 
-With 7+ years of experience across e-commerce, UX, operations, and brand strategy, I’ve helped teams grow from small startups to multi-million-dollar businesses. My work lives at the intersection of design, data, and intelligent automation—where technology starts to feel human again.
+7+ years of experience across e-commerce, UX, operations, and brand strategy. My work lives at the intersection of design, data, and intelligent automation—where technology starts to feel human again.
 
 My journey began at 15 when I helped grow Vinyl Status, my brother’s garage-born sticker business, into a high-volume Printify manufacturing partner. Since then, I've worked across e-commerce, tech, and consumer companies, begun graduate studies to bridge design, data, and research, and co-founded OptalAI.
 
