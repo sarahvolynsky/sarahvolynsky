@@ -24,10 +24,10 @@ Building Oplie, a voice-first AI operator that automates business workflows acro
 
 🧰 Tools & Platforms
 
-Design & Prototyping: Figma, Make, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn  
-AI: GPT-5, Claude, Cursor, Copilot, Perplexity 
-Systems & Platforms: Shopify, Vercel, Supabase, Notion, Slack, WebGL  
-Creative & Brand: Adobe Creative Suite, Jitter.video, Canva, Descript, Sora, Runway, Midjourney
+- Design & Prototyping: Figma, Make, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn  
+- AI: GPT-5, Claude, Cursor, Copilot, Perplexity 
+- Systems & Platforms: Shopify, Vercel, Supabase, Notion, Slack, WebGL  
+- Creative & Brand: Adobe Creative Suite, Jitter.video, Canva, Descript, Sora, Runway, Midjourney
 
 🎓 Education
 
