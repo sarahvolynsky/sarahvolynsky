@@ -12,7 +12,8 @@ My journey began at 15 when I helped grow Vinyl Status, my brother’s garage-bo
 🚀 What I’m Working On
 
 OptalAI
-Building Oplie, a voice-first AI operator that automates business workflows across tools and systems through natural conversation. My focus is on product design, user experience, and workflow intelligence—making AI useful, intuitive, and scalable. We are an AI company focused on rethinking how businesses operate.
+Building Oplie, a voice-first AI operator that automates business workflows across tools and systems through natural conversation. My focus is on product 
+design, user experience, and workflow intelligence—making AI useful, intuitive, and scalable. We are an AI company focused on rethinking how businesses operate.
 
 🎯 Current Focus
 
@@ -21,7 +22,7 @@ Building Oplie, a voice-first AI operator that automates business workflows acro
 - Exploring how AI and automation reshape real-world operations and human decision-making
 
 - Leading product design and strategy at OptalAI
-
+<img width="1080" height="1080" alt="Oplie website laptop mockup" src="https://github.com/user-attachments/assets/9de91ed1-c48e-45b6-b03f-78a02998a0b4" />
 🧰 Tools & Platforms
 
 - Design & Prototyping: Figma, Make, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn  
