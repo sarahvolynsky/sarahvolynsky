@@ -25,7 +25,7 @@ design, user experience, and workflow intelligence—making AI useful, intuitive
 <img width="1080" height="1080" alt="Oplie website laptop mockup" src="https://github.com/user-attachments/assets/9de91ed1-c48e-45b6-b03f-78a02998a0b4" />
 🧰 Tools & Platforms
 
-- Design & Prototyping: Figma, Make, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn  
+- Design & Prototyping: Figma, Make, Illustrator, InDesign, Rive, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn  
 - AI: GPT-5, Claude, Cursor, Copilot, Perplexity 
 - Systems & Platforms: Shopify, Vercel, Supabase, Notion, Slack, WebGL  
 - Creative & Brand: Adobe Creative Suite, Jitter.video, Canva, Descript, Sora, Runway, Midjourney
