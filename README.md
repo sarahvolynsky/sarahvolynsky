@@ -21,8 +21,8 @@ design, user experience, and workflow intelligence—making AI useful, intuitive
 
 - Exploring how AI and automation reshape real-world operations and human decision-making
 
-- Leading product design and strategy at OptalAI
-<img width="1080" height="1080" alt="Oplie website laptop mockup" src="https://github.com/user-attachments/assets/9de91ed1-c48e-45b6-b03f-78a02998a0b4" />
+- Leading product at OptalAI
+
 🧰 Tools & Platforms
 
 - Design & Prototyping: Figma, Make, Illustrator, InDesign, Rive, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn  
