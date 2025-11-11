@@ -3,11 +3,7 @@ Hi, I'm Sarah 👋
 
 🪞 About
 
-I’m a product strategist and creative operator passionate about designing AI systems that make business workflows seamless and human-centered.
-
-7+ years of experience across e-commerce, UX, operations, and brand strategy. My work lives at the intersection of design, data, and intelligent automation, where technology starts to feel human again.
-
-My journey began at 15 when I helped grow Vinyl Status, my brother’s garage-born sticker business, into a high-volume Printify manufacturing partner. Since then, I've worked across e-commerce, tech, and consumer companies, begun graduate studies to bridge design, data, and research, and co-founded OptalAI.
+I’m a product lead and designer who loves building things that feel smart and human. I’m studying Information Management, specializing in User Experience and Data Science at the University of Washington, where I explore how AI and design can work together to make complex systems simple. I’ve been creating for as long as I can remember, from sketching and building small projects as a kid to designing products that solve real problems today. I’m curious by nature, always experimenting, and driven by the challenge of turning ideas into experiences that make life a little easier.
 
 🚀 What I’m Working On
 
