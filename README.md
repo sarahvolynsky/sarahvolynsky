@@ -8,8 +8,7 @@ I’m a product lead and designer who loves building things that feel smart and 
 🚀 What I’m Working On
 
 OptalAI
-Building Oplie, a voice-first AI operator that automates business workflows across tools and systems through natural conversation. My focus is on product 
-design, user experience, and workflow intelligence—making AI useful, intuitive, and scalable. We are an AI company focused on rethinking how businesses operate.
+I’m building Oplie, a conversational AI operator for print/apparel manufacturing teams. I lead product design and UX to make AI simple and useful on the factory floor. Our goal is to rethink how smaller manufacturers handle inventory and operations.
 
 🎯 Current Focus
 
