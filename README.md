@@ -3,12 +3,8 @@ Hi, I'm Sarah 👋
 
 🪞 About
 
-I’m a product lead and designer who loves building things that feel smart and human. I’m studying Information Management, specializing in User Experience and Data Science at the University of Washington, where I explore how AI and design can work together to make complex systems simple. I’ve been creating for as long as I can remember, from sketching and building small projects as a kid to designing products that solve real problems today. I’m curious by nature, always experimenting, and driven by the challenge of turning ideas into experiences that make life a little easier.
+I’m a product designer who loves building things that feel smart and human. I’m studying Information Management, specializing in User Experience and Data Science at the University of Washington, where I explore how AI and design can work together to make complex systems simple. I’ve been creating for as long as I can remember, from sketching and building small projects as a kid to designing products that solve real problems today. I’m curious by nature, always experimenting, and driven by the challenge of turning ideas into experiences that make life a little easier.
 
-🚀 What I’m Working On
-
-OptalAI
-I’m building Oplie, a conversational AI operator for small and mid-sized production facilities. I lead product design and UX to make AI simple and useful on the factory floor. Our goal is to rethink how smaller manufacturers handle inventory and operations.
 
 🎯 Current Focus
 
