@@ -12,8 +12,6 @@ I’m a product designer who loves building things that feel smart and human. I�
 
 - Exploring how AI and automation reshape real-world operations and human decision-making
 
-- Leading product at OptalAI
-
 🧰 Tools & Platforms
 
 - Design & Prototyping: Figma, Make, Illustrator, InDesign, Rive, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn  
