@@ -14,7 +14,7 @@ I’m a product designer who loves building things that feel smart and human. I�
 
 🧰 Tools & Platforms
 
-- Design & Prototyping: Figma, Make, Illustrator, InDesign, Rive, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn  
+- Design & Prototyping: Figma, Make, Illustrator, InDesign, Rive, Magic Patterns, Framer, Lovable, Base44, Spline, shadcn, v0
 - AI: GPT-5, Claude, Cursor, Copilot, Perplexity 
 - Systems & Platforms: Shopify, Vercel, Supabase, Notion, Slack, WebGL  
 - Creative & Brand: Adobe Creative Suite, Jitter.video, Canva, Descript, Sora, Runway, Midjourney
